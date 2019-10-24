@@ -4,3 +4,4 @@ C:\Users\JohnC\Git\Mods\RemoveRain\obj\Release\RemoveRain.csproj.CoreCompileInpu
 C:\Users\JohnC\Git\Mods\RemoveRain\obj\Release\RemoveRain.dll
 C:\Users\JohnC\Git\Mods\RemoveRain\bin\Release\RemoveRain\info.json
 C:\Users\JohnC\Git\Mods\RemoveRain\bin\Release\RemoveRain\RemoveRain.dll
+C:\Users\JohnC\Git\Mods\RemoveRain\obj\Release\RemoveRain.csprojAssemblyReference.cache
