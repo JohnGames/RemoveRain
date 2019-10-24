@@ -2,8 +2,8 @@
   "Releases": [
     {
       "Id": "SkipIntro",
-      "Version": "1.0.2",
-      "DownloadUrl": "https://github.com/JohnGames/SkipIntro/releases/download/v1.0.2/SkipIntro.zip"
+      "Version": "1.0.0",
+      "DownloadUrl": "https://github.com/JohnGames/SkipIntro/releases/download/v1.0.0/SkipIntro.zip"
     }
   ]
 }

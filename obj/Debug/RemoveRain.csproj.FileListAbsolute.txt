@@ -1,0 +1,7 @@
+C:\Users\JohnC\Git\Mods\RemoveRain\bin\Debug\info.json
+C:\Users\JohnC\Git\Mods\RemoveRain\bin\Debug\RemoveRain.dll
+C:\Users\JohnC\Git\Mods\RemoveRain\bin\Debug\RemoveRain.pdb
+C:\Users\JohnC\Git\Mods\RemoveRain\obj\Debug\RemoveRain.csprojAssemblyReference.cache
+C:\Users\JohnC\Git\Mods\RemoveRain\obj\Debug\RemoveRain.csproj.CoreCompileInputs.cache
+C:\Users\JohnC\Git\Mods\RemoveRain\obj\Debug\RemoveRain.dll
+C:\Users\JohnC\Git\Mods\RemoveRain\obj\Debug\RemoveRain.pdb

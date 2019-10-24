@@ -7,8 +7,8 @@
     <ProjectGuid>{DEEF14CC-BC0D-4EBE-8ECC-1B5E8E2558FB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SkipIntro</RootNamespace>
-    <AssemblyName>SkipIntro</AssemblyName>
+    <RootNamespace>RemoveRain</RootNamespace>
+    <AssemblyName>RemoveRain</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -27,7 +27,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>none</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>bin\Release\SkipIntro\</OutputPath>
+    <OutputPath>bin\Release\RemoveRain\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -75,7 +75,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SkipIntro.cs" />
+    <Compile Include="RemoveRain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

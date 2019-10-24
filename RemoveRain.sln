@@ -3,12 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkipIntro", "SkipIntro.csproj", "{DEEF14CC-BC0D-4EBE-8ECC-1B5E8E2558FB}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{034164F5-0C9F-4D12-B588-C901DFC411A1}"
 	ProjectSection(SolutionItems) = preProject
 		Repository.json = Repository.json
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveRain", "RemoveRain.csproj", "{DEEF14CC-BC0D-4EBE-8ECC-1B5E8E2558FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

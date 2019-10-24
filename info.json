@@ -1,12 +1,12 @@
 ﻿{
-  "Id": "SkipIntro",
-  "DisplayName": "SkipIntro",
+  "Id": "RemoveRain",
+  "DisplayName": "RemoveRain",
   "Author": "JohnGames",
-  "Version": "1.0.2",
+  "Version": "1.0.0",
   "ManagerVersion": "0.21.3.0",
   "GameVersion": "127.2",
-  "AssemblyName": "SkipIntro.dll",
-  "EntryMethod": "SkipIntro.Main.Load",
-  "HomePage": "https://github.com/JohnGames/SkipIntro",
-  "Repository": "https://raw.githubusercontent.com/JohnGames/SkipIntro/master/Repository.json"
+  "AssemblyName": "RemoveRain.dll",
+  "EntryMethod": "RemoveRain.Main.Load",
+  "HomePage": "https://github.com/JohnGames/RemoveRain",
+  "Repository": "https://raw.githubusercontent.com/JohnGames/RemoveRain/master/Repository.json"
 }
